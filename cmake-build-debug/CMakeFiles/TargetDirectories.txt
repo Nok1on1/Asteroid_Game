@@ -1,0 +1,3 @@
+/home/noklon/Prog-projects/CLionProjects/Asteroids/cmake-build-debug/CMakeFiles/Asteroids.dir
+/home/noklon/Prog-projects/CLionProjects/Asteroids/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/noklon/Prog-projects/CLionProjects/Asteroids/cmake-build-debug/CMakeFiles/rebuild_cache.dir
